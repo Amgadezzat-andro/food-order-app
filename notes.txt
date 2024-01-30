@@ -1,0 +1,54 @@
+database in DB_SCHEMA folder 
+go to /admin Directory and sign in with 
+megostar59@gmail.com
+123456789
+
+
+
+# FIXES 
+1- Fix The Logo ✅
+2- Fill Dash Board with Info ✅
+3- Fill With Right Data 
+
+
+# ✅ Create/Start Project
+# ✅ Import Design Files
+# ✅ Create Database
+# ✅ Design Admin Panel
+# ✅ Create Partials/Repeating Parts (Menu and Footer)
+# ✅ Add Admin in Database Using MYSQLI
+# ✅ Display All Admins from Database
+# ✅ Create Configuration File
+# ✅ Delete Admin from Database
+# ✅ Update Admin in Database
+# ✅ Change Admin Password
+# ✅ Authentication (Login System with PHP and MySQL)
+# ✅ Authorization (Access Control)
+# ✅ Upload Image with PHP
+# ✅ Rename the Image while Uploading
+# ✅ Delete Image File with PHP
+# ✅ Add Category in Database
+# ✅ Display Categories from Database
+# ✅ Delete Image File with PHP
+# ✅ Delete Category from Database
+# ✅ Update Category in Database
+# ✅ Update Image with PHP
+# ✅ Display Categories in Dropdown
+# ✅ Add Foods in Database
+# ✅ Display Foods from Database
+# ✅ Delete Image File with PHP
+# ✅ Delete Food from Database
+# ✅ Update Food in Database
+# ✅ Update Image with PHP
+# ✅ Converting Frontend into PHP
+# ✅ Connecting Frontend with Backend using PHP
+# ✅ Display Foods and Categories in Frontend using PHP
+# ✅ Display Foods by Search Keywords
+# ✅ Display Foods by Category Selected
+# ✅ Order Food from Admin Panel
+# ✅ Manage Foods from Admin Panel
+# ✅ Track Food Delivery
+# ✅  Create Summary Dashboard
+# ✅  Use Aggregate Function to calculate actual Revenue
+# ✅  Know the Security Vulnerability (SQL Injection) in our Website
+# ✅  Secure our Website with a single code
